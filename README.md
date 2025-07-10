@@ -1,5 +1,12 @@
 # cordova-plugin-stripe-native
 
+## Supported Platforms
+
+- Android
+- (iOS coming soon)
+
+## Quick example
+
 ```
 StripePlugin.init('pk_test_xxxxxx', function(res) {
   console.log('Stripe initialized:', res);
