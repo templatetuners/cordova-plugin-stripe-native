@@ -1,0 +1,24 @@
+{
+  "name": "cordova-plugin-stripe-native",
+  "version": "1.0.0",
+  "description": "Custom Stripe plugin for Cordova",
+  "cordova": {
+    "id": "cordova-plugin-stripe-native",
+    "platforms": ["android"]
+  },
+  "keywords": [
+    "cordova",
+    "plugin",
+    "stripe",
+    "payments",
+    "android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=9.0.0"
+    }
+  ],
+  "author": "Adrian Axinte",
+  "license": "MIT"
+}
